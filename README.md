@@ -1,5 +1,7 @@
 # Distributed-Simplex    
 
+* [Simplex](https://www.youtube.com/watch?v=sib7pv8JoH4) - Simulation
+
 ## Introduction
 An implementation of a distributed version of the well-known simplex algorithm, is given in robot operating system (ROS).
 The aim is to solve degenerate linear programs on asynchronous peer-to-peer networks with distributed information structures.
@@ -36,5 +38,3 @@ The function *goalPosition* uses solution provides from *end* function, and sets
 
 ![Gazebo](/images/Agent.png)
 ![Gazebo](/images/Graph_with_Gazebo.png)
-
-[![Alt Text](http://img.youtube.com/vi/sib7pv8JoH4//0.jpg)](https://www.youtube.com/watch?v=sib7pv8JoH4 "Alt Text")
