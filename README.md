@@ -1,6 +1,6 @@
 # Distributed-Simplex    
 
-* [Simplex](https://www.youtube.com/watch?v=sib7pv8JoH4) - Simulation
+* [Simplex](https://www.youtube.com/watch?v=sib7pv8JoH4) - Simulation on YouTube
 
 ## Introduction
 An implementation of a distributed version of the well-known simplex algorithm, is given in robot operating system (ROS).
