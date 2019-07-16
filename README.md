@@ -37,6 +37,4 @@ The function *goalPosition* uses solution provides from *end* function, and sets
 ![Gazebo](/images/Agent.png)
 ![Gazebo](/images/Graph_with_Gazebo.png)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=sib7pv8JoH4
-" target="_blank"><img src="http://img.youtube.com/vi/sib7pv8JoH4/0.jpg" 
-alt="Simplex" width="240" height="180" border="10" /></a>
+[![Alt Text](http://img.youtube.com/vi/sib7pv8JoH4/0.jpg)](https://www.youtube.com/watch?v=sib7pv8JoH4 "Alt Text")
