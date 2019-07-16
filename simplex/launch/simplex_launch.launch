@@ -1,0 +1,11 @@
+<launch>
+
+		<node name="agent1" pkg="simplex" type="main" args="1 -5 1" output="screen"/>
+		<node name="agent2" pkg="simplex" type="main" args="2 2 3" output="screen"/>
+		<node name="agent3" pkg="simplex" type="main" args="3 1 1" output="screen"/>
+<!--		<node name="agent4" pkg="simplex" type="main" args="4 -2 -5" output="screen"/>
+		<node name="agent5" pkg="simplex" type="main" args="5" output="screen"/>
+-->	
+
+</launch>
+
