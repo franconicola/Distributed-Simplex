@@ -3,9 +3,7 @@
 * [Simplex](https://www.youtube.com/watch?v=sib7pv8JoH4) - Simulation on YouTube
 
 ## Introduction
-An implementation of a distributed version of the well-known simplex algorithm, is given in robot operating system (ROS).
-The aim is to solve degenerate linear programs on asynchronous peer-to-peer networks with distributed information structures.
-So every agent knows only a subset of information, and they run simplex algorithm by updating and sharing their base, until they will agree on a common solution. We show how the multi agent assignment problem can be efficiently solved by using a distributed structure, and we provide simulations in the robot operating system environment. 
+An implementation of a distributed version of the well-known simplex algorithm, is given in this report. The aim is to solve degenerate linear programs on asynchronous peer-to-peer networks with distributed information structures. So, a network of agents is considered, where every agent knows only a subset of information, and they run simplex algorithm by updating and sharing their base, until they will agree on a common solution. It is showed how the multi agent assignment problem can be efficiently solved by using a distributed structure, and it is provided simulations in the robot operating system environment.
 
 ## Set-up
 We are interested in a network of autonomous agents which are able to receive information from their neighbours, and a set of tasks. Neighbour relations between distinct pairs of agents are characterized by directed graph. 
