@@ -2,6 +2,19 @@
 
 * [Simplex](https://www.youtube.com/watch?v=sib7pv8JoH4) - Simulation on YouTube
 
+### Article Citation
+
+@article{burger2012distributed,
+  title={A distributed simplex algorithm for degenerate linear programs and multi-agent assignments},
+  author={B{\"u}rger, Mathias and Notarstefano, Giuseppe and Bullo, Francesco and Allg{\"o}wer, Frank},
+  journal={Automatica},
+  volume={48},
+  number={9},
+  pages={2298--2304},
+  year={2012},
+  publisher={Elsevier}
+}
+
 ## Introduction
 An implementation of a distributed version of the well-known simplex algorithm, is given in this report. The aim is to solve degenerate linear programs on asynchronous peer-to-peer networks with distributed information structures. So, a network of agents is considered, where every agent knows only a subset of information, and they run simplex algorithm by updating and sharing their base, until they will agree on a common solution. It is showed how the multi agent assignment problem can be efficiently solved by using a distributed structure, and it is provided simulations in the robot operating system environment.
 
