@@ -4,7 +4,7 @@
 
 **Based on the pubblication:**
 
-```javascript
+```
 @article{burger2012distributed,
   title={A distributed simplex algorithm for degenerate linear programs and multi-agent assignments},
   author={B{\"u}rger, Mathias and Notarstefano, Giuseppe and Bullo, Francesco and Allg{\"o}wer, Frank},
