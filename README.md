@@ -1,6 +1,8 @@
 # Distributed-Simplex    
 
-* [Simplex](https://www.youtube.com/watch?v=sib7pv8JoH4) - Simulation on YouTube
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=sib7pv8JoH4&t=7s
+" target="_blank"><img src="http://img.youtube.com/vi/sib7pv8JoH4&t=7s/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 **Based on the pubblication:**
 
