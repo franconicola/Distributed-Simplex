@@ -1,9 +1,13 @@
-# Distributed-Simplex    
+# Distributed-Simplex   
+
+**Simulation**
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=sib7pv8JoH4" target="_blank"><img src="http://img.youtube.com/vi/sib7pv8JoH4/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-**Based on the pubblication:**
+## Based on the pubblication:
+
+[Publication](https://www.sciencedirect.com/science/article/pii/S0005109812002956)
 
 ```
 @article{burger2012distributed,
